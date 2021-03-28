@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Quiz/static/css/main.a8803470.chunk.css",
-    "main.js": "/Quiz/static/js/main.e037be9e.chunk.js",
-    "main.js.map": "/Quiz/static/js/main.e037be9e.chunk.js.map",
-    "runtime-main.js": "/Quiz/static/js/runtime-main.b616389b.js",
-    "runtime-main.js.map": "/Quiz/static/js/runtime-main.b616389b.js.map",
-    "static/css/2.cc55ea2e.chunk.css": "/Quiz/static/css/2.cc55ea2e.chunk.css",
-    "static/js/2.4b1282a1.chunk.js": "/Quiz/static/js/2.4b1282a1.chunk.js",
-    "static/js/2.4b1282a1.chunk.js.map": "/Quiz/static/js/2.4b1282a1.chunk.js.map",
-    "static/js/3.3cadfa04.chunk.js": "/Quiz/static/js/3.3cadfa04.chunk.js",
-    "static/js/3.3cadfa04.chunk.js.map": "/Quiz/static/js/3.3cadfa04.chunk.js.map",
-    "index.html": "/Quiz/index.html",
-    "static/css/2.cc55ea2e.chunk.css.map": "/Quiz/static/css/2.cc55ea2e.chunk.css.map",
-    "static/css/main.a8803470.chunk.css.map": "/Quiz/static/css/main.a8803470.chunk.css.map",
-    "static/js/2.4b1282a1.chunk.js.LICENSE.txt": "/Quiz/static/js/2.4b1282a1.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "/Quiz/static/media/fontawesome-webfont.f691f37e.woff"
+    "main.css": "/quiz/static/css/main.8cbc92c7.chunk.css",
+    "main.js": "/quiz/static/js/main.cd2de169.chunk.js",
+    "main.js.map": "/quiz/static/js/main.cd2de169.chunk.js.map",
+    "runtime-main.js": "/quiz/static/js/runtime-main.8e201053.js",
+    "runtime-main.js.map": "/quiz/static/js/runtime-main.8e201053.js.map",
+    "static/css/2.ba586c08.chunk.css": "/quiz/static/css/2.ba586c08.chunk.css",
+    "static/js/2.993c25c9.chunk.js": "/quiz/static/js/2.993c25c9.chunk.js",
+    "static/js/2.993c25c9.chunk.js.map": "/quiz/static/js/2.993c25c9.chunk.js.map",
+    "static/js/3.8ed731dd.chunk.js": "/quiz/static/js/3.8ed731dd.chunk.js",
+    "static/js/3.8ed731dd.chunk.js.map": "/quiz/static/js/3.8ed731dd.chunk.js.map",
+    "index.html": "/quiz/index.html",
+    "static/css/2.ba586c08.chunk.css.map": "/quiz/static/css/2.ba586c08.chunk.css.map",
+    "static/css/main.8cbc92c7.chunk.css.map": "/quiz/static/css/main.8cbc92c7.chunk.css.map",
+    "static/js/2.993c25c9.chunk.js.LICENSE.txt": "/quiz/static/js/2.993c25c9.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/quiz/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.b616389b.js",
-    "static/css/2.cc55ea2e.chunk.css",
-    "static/js/2.4b1282a1.chunk.js",
-    "static/css/main.a8803470.chunk.css",
-    "static/js/main.e037be9e.chunk.js"
+    "static/js/runtime-main.8e201053.js",
+    "static/css/2.ba586c08.chunk.css",
+    "static/js/2.993c25c9.chunk.js",
+    "static/css/main.8cbc92c7.chunk.css",
+    "static/js/main.cd2de169.chunk.js"
   ]
 }
