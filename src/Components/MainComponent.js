@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
-import {Switch, Route, Redirect} from 'react-router-dom';
+import {Switch, Route, Redirect, Link} from 'react-router-dom';
 import HomeComponent from './HomeComponent';
 import AboutComponent from './AboutComponent';
-import {Nav, NavItem, Navbar, Collapse, NavbarBrand, NavbarToggler, NavLink} from 'reactstrap';
+import {Nav, NavItem, Navbar, Collapse, NavbarBrand, NavbarToggler} from 'reactstrap';
 import QuizComponent from './QuizComponent';
 
 class MainComponent extends Component 
@@ -23,15 +23,15 @@ class MainComponent extends Component
         return(
             <div className="Main" style={{background: `url('${process.env.PUBLIC_URL}/assets/bg.jpg')`}}> 
             <Navbar color="dark" dark expand="xl">
-                <NavbarBrand href="/"><h2>Menu</h2></NavbarBrand>
+                <NavbarBrand><h2>Menu</h2></NavbarBrand>
                 <NavbarToggler onClick={this.navtoggle} className='button'/>
                 <Collapse isOpen={this.state.isMenuOpen} navbar>
                     <Nav navbar>
                         <NavItem>
-                            <NavLink href="/about">About</NavLink>
+                        <Link to="/about">About</Link>
                         </NavItem>
                         <NavItem>
-                            <NavLink href="/quiz/questions"> Quiz</NavLink>
+                        <Link to="/quiz/questions"> Quiz</Link>
                         </NavItem>
 
                     </Nav>

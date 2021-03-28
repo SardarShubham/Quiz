@@ -8,7 +8,7 @@ const AboutComponent = () => {
                 <Col md>
                     <Card className='card' >
                     <CardTitle><h2>Website Developed By:</h2></CardTitle>   
-                    <CardImg src={process.env.PUBLIC_URL+'/assets/prof.png'} className='image'/>
+                    <CardImg src={process.env.PUBLIC_URL+'/assets/profile.png'} className='image'/>
                     <CardBody>
                     <p>| Shubham Sardar | <br/>| Second year IT Student |<br/>| Pune Institute of Computer Technology</p>
                     <CardText>

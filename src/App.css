@@ -1,14 +1,14 @@
 .App{
     color:lightcyan;
-    font-size:2cm;
-    font-family: cursive;
+    font-size:1cm;
+    font-family:Arial, Helvetica, sans-serif;
     text-align: center;
 }
 .Jumbotron{
     background-color:firebrick;
     margin-top: 1cm;
     margin-bottom: 1.5cm;
-    font-size: 3cm;
+    font-size: 1cm;
 }
 .profile{
     background-color:firebrick;
@@ -49,7 +49,7 @@
     width: min-content;
 }
 .button{
-    font-size: 2cm;
+    font-size: 1cm;
     margin-top: 1cm;
     margin-bottom: 1cm;
 }
@@ -57,5 +57,5 @@ a:link,a:visited, h2{
     color:palegoldenrod;
 }
 h2{
-    font-size: 3cm;
+    font-size: 1.5cm;
 }
