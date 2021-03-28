@@ -101,9 +101,8 @@ class QuizComponent extends Component
                             <CardTitle> <h2>Result : {this.state.score}/10</h2></CardTitle>
                             <CardBody>
                                 <CardText>
-                                    <Button color="secondary" className='button'> <Link to="/quiz">Home</Link></Button>
-                                    <hr/>
                                     Since now you have attempted the quiz, have a look at my Profile :)<br/>
+                                    <Button color="secondary"> <Link to="/quiz">Home</Link></Button><br/>
                                     <Button color='primary' className='button'><Link to="/about">Go to Profile</Link></Button>
                                 </CardText>
                             </CardBody>
